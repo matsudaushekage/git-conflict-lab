@@ -1,2 +1,3 @@
 file content
 Master commit
+Новое изменение в мастер
