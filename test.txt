@@ -1,1 +1,3 @@
 file content
+new line
+Merge commit
